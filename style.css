@@ -99,8 +99,9 @@ body{
 header{
     font-size: 40px;
     color: white;
-    width: 300px;
-    margin-left: 890px;
+    width: 250px;
+    position: fixed;
+    display: inline-flex;
 }
 
 .One:hover {
