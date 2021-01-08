@@ -16,7 +16,7 @@ body{
 
 .ButtonNeon{
     position: relative;
-    display: block;
+    display: inline-flex;
     padding: 15px 30px;
     color: #2196f3;
     text-transform: uppercase;
@@ -28,7 +28,7 @@ body{
     text-align: center;
     margin-top: 300px;
     width: 200px;
-    margin-left: 890px;
+    aling-self:center;
 }
 
 .ButtonNeon:hover {
